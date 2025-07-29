@@ -1,4 +1,4 @@
-<h1 align="center">🔧 Hidden Settings</h1>
+<h1 align="center">Hidden Settings</h1>
 
 <p align="justify">
 <b>A lightweight and fast Android app that allows you to view all available system settings activities on your device. With just one click, you can directly launch any hidden activity. Added Categorizes activities into groups such as "Apps" "Display" "System" and "Others". It also includes search bar to quickly find any specific activity.
