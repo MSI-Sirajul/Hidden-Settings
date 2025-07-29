@@ -8,7 +8,7 @@
 <h2 align="center">📌 Features</h2>
 
 <p align="justify">
-✅ Favorite mark
+✅ Favorite mark<br>
 ✅ List of all system activities<br>
 ✅ Categorized view (Apps, Display, System, Others)<br>
 ✅ Quick search option<br>
