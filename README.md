@@ -9,11 +9,8 @@
 <h2 align="center">📷 App Preview</h2>
 
 <p align="center">
-  <img src="https://github.com/MSI-Sirajul/Hidden-Settings/raw/main/screenshots/screen1.jpg" alt="screenshot1" width="300">
-  <img src="https://github.com/MSI-Sirajul/Hidden-Settings/raw/main/screenshots/screen2.jpg" alt="screenshot2" width="300">
-  <img src="https://github.com/MSI-Sirajul/Hidden-Settings/raw/main/screenshots/screen3.jpg" alt="screenshot3" width="300">
-</p>
-
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Hidden-Settings/refs/heads/main/.res/dark.jpg" alt="screenshot1" width="300">
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Hidden-Settings/refs/heads/main/.res/light.jpg" alt="screenshot2" width="300">
 <br>
 
 <h2 align="center">⬇️ Download</h2>
