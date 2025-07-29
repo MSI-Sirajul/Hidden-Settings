@@ -1,0 +1,20 @@
+[
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "versionName": "1.6.1"
+  },
+  {
+    "artifactId": "android-gif-drawable",
+    "excludes": [],
+    "groupId": "pl.droidsonroids.gif",
+    "versionName": "1.2.27"
+  },
+  {
+    "artifactId": "glide",
+    "excludes": [],
+    "groupId": "com.github.bumptech.glide",
+    "versionName": "4.16.0"
+  }
+]

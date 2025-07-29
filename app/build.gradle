@@ -1,0 +1,30 @@
+plugins {
+    id 'com.android.application'
+    id 'java'
+}
+
+android {
+    namespace 'com.hidden.settings'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.hidden.settings"
+        minSdk 21
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+        }
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+	implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.27'
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.16.0'
+}
