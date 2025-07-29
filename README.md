@@ -5,7 +5,19 @@
 </p>
 
 <br>
+<h2 align="center">📌 Features</h2>
 
+<p align="justify">
+✅ Favorite mark
+✅ List of all system activities<br>
+✅ Categorized view (Apps, Display, System, Others)<br>
+✅ Quick search option<br>
+✅ One-click open activity<br>
+✅ Light and Dark theme support<br>
+✅ Lightweight and fast performance<br>
+</p>
+
+<br>
 <h2 align="center">📷 App Preview</h2>
 
 <p align="center">
@@ -33,18 +45,6 @@
 
 <br>
 
-<h2 align="center">📌 Features</h2>
-
-<p align="justify">
-✅ List of all system activities<br>
-✅ Categorized view (Apps, Display, System, Others)<br>
-✅ Quick search option<br>
-✅ One-click open activity<br>
-✅ Light and Dark theme support<br>
-✅ Lightweight and fast performance<br>
-</p>
-
-<br>
 
 <h2 align="center">📥 Installation</h2>
 
