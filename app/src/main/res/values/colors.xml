@@ -1,0 +1,16 @@
+<resources>
+    <!-- Light Mode Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_light">#000000</color>
+    <color name="border_light">#FF00FF</color>
+    
+    <!-- Dark Mode Colors (Pure Black & White) -->
+    <color name="black">#000000</color>
+    <color name="text_dark">#FFFFFF</color>
+    <color name="border_dark">#FF00FF</color>
+    
+    <color name="hint_color">#FF0000</color>
+	<color name="search_color">#0000FF</color>
+	<color name="gray_divider">#FFAAAAAA</color>
+
+</resources>
