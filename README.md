@@ -1,7 +1,7 @@
 <h1 align="center">🔧 Hidden Settings</h1>
 
 <p align="justify">
-<b>Hidden Settings</b> is a lightweight and fast Android app that allows you to view and open all available <b>system settings activities</b> on your device. With just one click, you can directly launch any hidden activity. The app supports both <b>Dark and Light themes</b> and categorizes activities into groups such as Apps, Display, System, and Others. It also includes a powerful <b>search bar</b> to quickly find any specific activity.
+<b>A lightweight and fast Android app that allows you to view all available system settings activities on your device. With just one click, you can directly launch any hidden activity. Added Categorizes activities into groups such as "Apps" "Display" "System" and "Others". It also includes search bar to quickly find any specific activity.
 </p>
 
 <br>
@@ -9,14 +9,14 @@
 <h2 align="center">📷 App Preview</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Hidden-Settings/refs/heads/main/.res/dark.jpg" alt="screenshot1" width="300">
-  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Hidden-Settings/refs/heads/main/.res/light.jpg" alt="screenshot2" width="300">
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Hidden-Settings/refs/heads/main/.res/dark.jpg" alt="dark">
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Hidden-Settings/refs/heads/main/.res/light.jpg" alt="light">
 <br>
 
 <h2 align="center">⬇️ Download</h2>
 
 <p align="center">
-  <a href="https://github.com/MSI-Sirajul/Hidden-Settings/releases/latest/download/HiddenSettings.apk">
+  <a href="https://github.com/MSI-Sirajul/Hidden-Settings/releases/tag/Hidden-Settings">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
@@ -26,7 +26,7 @@
 <h2 align="center">🚀 Latest Release</h2>
 
 <p align="center">
-  <a href="https://github.com/MSI-Sirajul/Hidden-Settings/releases">
+  <a href="https://github.com/MSI-Sirajul/Hidden-Settings/releases/tag/Hidden-Settings">
     <img src="https://img.shields.io/badge/View%20All%20Releases-Click%20Here-success?style=for-the-badge&logo=github" alt="Releases">
   </a>
 </p>
