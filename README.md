@@ -10,7 +10,7 @@
 <p align="justify">
 ✅ Favorite mark<br>
 ✅ List of all system activities<br>
-✅ Categorized view (Apps, Display, System, Others)<br>
+✅Categorized view -Apps, Display, System, Others<br>
 ✅ Quick search option<br>
 ✅ One-click open activity<br>
 ✅ Light and Dark theme support<br>
